@@ -1,0 +1,2 @@
+I used Xpert Learning Tool and Class Zooms for reference in plotting. I have indicated where I had used Xpert Learning Tool for help. 
+I struggled the most with the linear regression and quartiles sections.
